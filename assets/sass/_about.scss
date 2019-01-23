@@ -1,0 +1,29 @@
+.about{
+	.blockerWrapper{
+		//background-color: red;
+		
+		.blocker{
+			//padding-top: 3.33vw;
+			img{
+				margin-top: $topMargin;
+				width: $column-four;
+				margin-left: $column-four;
+			}
+
+			.text{
+				margin-top: $smallMargin;
+			}
+		}
+
+		.blocker:last-of-type{
+			padding-bottom: 100px;
+		}
+
+	}
+
+	.footer{ 
+		#home .label{
+			margin-left: $smallMargin;
+		}
+	}
+}

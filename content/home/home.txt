@@ -1,0 +1,60 @@
+Title: Home
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+News: 
+
+- 
+  coverimage: 05_london-1.jpg
+  newscontent: |
+    Session 11
+    Upcoming, May 2019
+  newsbooktitle: We have no place to be
+  newsbooktitlejapanese: >
+    新改訂版「俺たち、どこにもいられない
+  newsbookartist: Joji Hashiguchi
+  newsbookartistjapanese: 橋口譲二
+  newsshortcontent: |
+    Session 11
+    Upcoming, May 2019
+  newslongcontent: >
+    Hashiguchi traveled across Japan
+    photographing 17 year-olds in the places
+    where they live. Documenting Japanese
+    people who have ridden the waves of
+    economic prosperity in the late-1980s
+    through stagnation and decline after the
+    bubble burst, Hashiguchi’s works have
+    renewed value in 2017 as a testament to
+    photography’s ability to reflect and
+    record reality.
+- 
+  coverimage: mao_cover.jpg
+  newscontent: |
+    Jan. 10
+    Different Content
+  newsbooktitle: Another Title
+  newsbooktitlejapanese: 新改訂版「俺たち
+  newsbookartist: Yeon Ryoo
+  newsbookartistjapanese: 橋口譲二
+  newsshortcontent: Another Content
+  newslongcontent: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."

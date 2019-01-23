@@ -1,0 +1,30 @@
+title: Home
+
+pages: false
+
+fields:
+  
+  news:
+    label: News
+    type: structure
+    fields:
+      coverImage: 
+        label: New Cover Image
+        type: image
+      newsShortContent:
+        label: News Short Content
+        type: Textarea
+      newsLongContent:
+        label: News Long Content
+        type: Textarea
+      newsBookTitle:
+        label: News Book Title (English)
+        type: Text
+      newsBookTitleJapanese:
+        label: News Book Title (Japanese)
+        type: Text
+      newsBookArtist:
+        label: News Book Artist (English)
+      newsBookArtistJapanese:
+        label: News Book Artist (Japanese)
+

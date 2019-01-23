@@ -1,0 +1,159 @@
+Englishtitle: Photographer Name
+
+----
+
+Japanesetitle: 面談 面談
+
+----
+
+Category: features
+
+----
+
+Date: 2019-01-23
+
+----
+
+Coverimage: unnamed-2.jpg
+
+----
+
+Enlgishtext: 
+
+----
+
+Japanesetext: 
+
+----
+
+Title: Photographer Name
+
+----
+
+Articles: 0
+
+----
+
+Writings: 0
+
+----
+
+Features: 1
+
+----
+
+Englishtext: 
+
+----
+
+Coverimageslide: 
+
+- 
+  coverimage: >
+    screen-shot-2018-12-20-at-11.24.23-am.png
+- 
+  coverimage: unnamed-2.jpg
+
+----
+
+Japanese: 0
+
+----
+
+Chinese: 0
+
+----
+
+Korean: 1
+
+----
+
+Cjktext: 
+
+----
+
+Interviewenglish: 
+
+- 
+  question: How long have you been in New York?
+  answer: >
+    I moved here to do curatorial art
+    studies at FIT twenty years ago. After
+    graduating, I worked at Christie’s,
+    the Japanese Society and Brooklyn
+    Museum, but in order to get a Green
+    Card, I ended up taking a job at a
+    lawyer’s office. But I couldn’t stop
+    thinking about why I had come to NY in
+    the first place—to pursue a career in
+    the art world.
+  insertimage: ""
+- 
+  question: >
+    So you quit your job at the lawyer’s
+    office?
+  answer: >
+    No, not a first. I started working at a
+    gallery in Chelsea only on weekends, and
+    after a few months I saw that a position
+    was open at Dashwood and joined
+    part-time in early 2006.The bookstore
+    opened in September 2005, so I’ve been
+    there almost since the beginning.
+  insertimage: >
+    screen-shot-2018-12-20-at-11.24.23-am.png
+- 
+  question: >
+    Besides Dashwood, you also run your own
+    publishing company?
+  answer: >
+    I founded Session Press in 2012 and have
+    nine books so far. The latest one, Red
+    Flower, The Women of Okinawa by Mao
+    Ishikawa, consists of photographs
+    documenting the women Mao met while
+    working in military bars back in the
+    1970’s. Mao’s work is rare and I
+    highly respect
+  insertimage: ""
+
+----
+
+Interviewcjk: 
+
+- 
+  question: >
+    (주정부)은 오랫동안 법인세를
+    삭감하고 투자함으로써
+    일자리 창출을
+    자극하려했지만
+    실패했습니다.
+  answer: >
+    (과거의 정책) 수십 번
+    실패했고, 그로 인해 국가
+    위기가 초래되었습니다. 이
+    시점에서 민간 부문에 의해
+    일자리 창출이
+    이루어져야한다고 말하는
+    것은 이전과 같이 계속된다는
+    것을 의미합니다.
+- 
+  question: >
+    무책임하고 대안이 없습니다.
+    간단히 말해서, 그것은 국정에
+    대해 알지 못하고 경제에 관해
+    이야기하고 있습니다.
+  answer: >
+    민간 부문 (일자리 창출)
+    (정부)은 벤처 기업 지원 4 차
+    산업 혁명을 지원할 것입니다.
+    그러나 이러한 노력이 고용
+    창출로 이어질 지 여부는
+    불분명합니다. 이것이 공공
+    부문이 주도해야하는
+    이유입니다. 나는 이것을
+    분명히하고 싶다
+
+----
+
+Cjktitle: 한국 사람

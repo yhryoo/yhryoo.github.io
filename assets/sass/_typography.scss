@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'NeueHaasGrot';
+    src: url('../fonts/NHaasGroteskDSPro-55Rg.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGrotText';
+    src: url('../fonts/Haas Grot Text 55 Roman.woff') format('woff');
+}
+
+html{
+	font-family: 'NeueHaasGrot', san-serif;
+}
+
+.jpn{
+	font-family:'Hiragino Sans', san-serif;
+}
+
+.title, .nav{
+	
+	font-size: 20pt;
+	&.eng{
+		line-height: 1.8;
+	}
+	&.jpn{
+		line-height: 1.9;
+		font-size: 18pt;
+ 		letter-spacing: -1.5pt;
+ 	
+	} 
+	.eng{
+		line-height: 0.9;
+	}
+	.jpn{
+		line-height: 0.9;
+		font-size: 18pt;
+ 		letter-spacing: -1.5pt;
+ 	
+	} 
+}
+
+.footnote{
+	font-size:9.5pt;
+	line-height:1.2;
+	letter-spacing: 0.3pt;
+	font-family: 'NeueHaasGrotText';
+}
+
+.text{
+	&.eng{
+		font-size:12pt;
+		letter-spacing: 0.3pt;
+		line-height: 1.2;
+	}
+	&.jpn{
+		font-size:10pt;
+		letter-spacing: -0.2pt;
+		line-height: 1.4;
+	}
+	
+}
+ 	
+ 
+ 

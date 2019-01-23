@@ -1,0 +1,37 @@
+Title: About
+
+----
+
+Intro: This page demonstrates how you can utilize subpages to store content, like our team members shown below. This approach is especially useful when you have to handle a large number of datasets, many different kinds of data (like page sections) or very complex data with a lot of media files or fields.
+
+----
+
+Text: The approach of using subpages for storing content sections of a page can also be very useful for creating a (link: https://getkirby.com/docs/cookbook/one-pager text: one-page) website, featuring very different kinds of content.
+
+----
+
+Coverimage: unnamed.png
+
+----
+
+Englishtext: 
+
+Session Press is dedicated to introducing contemporary and historical works by both emerging and established Japanese photographers. Founded in 2011 by Miwa Susuda, photobook consultant at Dashwood Books in NY, Session Press functions like a collective, bringing photographers, designers, writers, and editors together to produce limited edition artist books.
+ 
+Session Press has published “Honey Moon” by Kohey Kanno (2011), For the Sake of Future Days by Katsuhiro Saiki (2013), Twin Boat by Koji Onaka (2013), both Dildo (2013) and Bible (2014) by Momo Okabe, New Love by Ren Hang (June. 2015) and Taratine by Daisuke Yokota (Sept. 2015). Okabe’s two books won the Paul Huf Award at FOAM museum (Amsterdam) in 2015.
+
+----
+
+Japanesetext: 
+
+ニューヨークで出版社を立ち上げ、日本の写真を紹介しています。2019年の春には、橋口譲二さんの写真集を出版する予定です。2016年よりニューヨークの写真専門書店ダシュウッド・ブックスでマネジャーとして勤務し、海外のコレクター、美術館、ギャラリーに向け、日本の写真を紹介しています。また、海外の美術館や、ギャラリーの講演会で、日本の写真を紹介する活動をしています。これまで、ローチャスターのVisual Studies Workshop、サンフランシスコのCasemoreKirkeby Gallery、ニューヨークのドーバーストリートマーケット・Paradigm Publishing 、トロントの Toronto Photobook Libraryで、セッションプレスから出版した写真集を中心に、日本の写真集について講演をしました。
+ 
+これまで、岡部桃さんや、横田大輔さんの写真集を出版し、オランダの写真美術館、FOAMからPaul Huf Awardを受け、展示会を開催しました。また、石川真生さんの「赤花」では、海外の多くのメディアに取り上げられ、数多くの賞を授かりまりました。荒木経惟さんの「青ノ時代・去年ノ夏」では、ニューヨークの美術館Museum of Sexと協定して、フィルムを上映し、多くの美術館の来場者に、アラキネマ（荒木さんの映像作品）を紹介することに務めました。
+
+セッションプレスの全ての写真集は、ニューヨーク近代美術館、メトロポリタン美術館、サンフランシスコ近代美術館、ニューヨーク公立図書館に所蔵されています。
+ 
+また、東京のイマ・マガジンで、ニューヨークの写真事情を日本へ伝える執筆活動をしています。2018年夏には、東京、渋谷のケースギャラリーにて、海外の作家の活動や、出版について講演しまし
+
+----
+
+Footertext: Session Press is dedicated to introducing contemporary and historical works by both emerging and established Japanese photographers

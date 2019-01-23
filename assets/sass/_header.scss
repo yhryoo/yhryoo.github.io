@@ -1,0 +1,23 @@
+.header{
+	position: fixed;
+	z-index: 999;
+	top:0px;
+	left:0px;
+	.title{
+		float: none;
+		width: auto !important;
+		&.eng{
+			margin-left: $smallMargin;
+			line-height: 1.6;
+		}
+		&.jpn{
+			margin-left: calc(#{$smallMargin} + 40px);
+			margin-top: -62px;
+			margin-bottom: 0px;
+			line-height: 1.74;
+		}
+		z-index: 1000;
+	//	transition: all 0.5s;
+	}
+	
+}

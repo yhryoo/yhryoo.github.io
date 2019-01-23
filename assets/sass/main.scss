@@ -1,0 +1,42 @@
+@import "_typography.scss";
+@import "_variables.scss";
+@import "_components.scss";
+@import "_header.scss";
+@import "_footer.scss";
+@import "_home.scss";
+@import "_bookpage.scss";
+@import "_about.scss";
+@import "_texts.scss";
+@import "_textpage.scss";
+@import "_responsive.scss";
+
+@-ms-viewport{
+  width: device-width;
+}
+
+body{
+	margin:0;
+	width: 100%;
+	height: 100%;
+	overflow: scroll;
+}
+
+p{
+	margin-top:0;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	//opacity: 0.7;
+	color: #000;
+}
+
+button{
+	outline:none;
+}
+

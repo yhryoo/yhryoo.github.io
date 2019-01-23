@@ -1,0 +1,167 @@
+.bookpage{
+	z-index: 9;
+	position: absolute;
+	.blockerWrapper{
+
+		.blocker{
+			
+
+			&.bottom{
+				width:100vw;
+				min-height: 200px;
+				padding-top: 60px;
+				padding-bottom: 120px;
+				float: left;
+			}
+
+		}
+	}
+
+	
+	/*.gridWrapper{
+		width: calc(50vw + 2.3pt);
+		height: 33.55vw;
+		float:left;
+	}*/
+
+	.slideshowWrapper{
+		//	position:absolute;
+
+		width: 50vw;
+		height: 33.55vw;
+	//	margin-bottom:
+		outline: 1.5pt solid black;
+		margin-top:$topMargin;
+		margin-left:$column-three;
+			//outline-offset: 1.24pt;
+		.gridWrapper{
+			position:absolute;
+			width: 50vw;
+			height: 33.55vw;
+			top:3.33vw;
+			left:$column-three;
+		}
+		.slideshow{
+		//	position:absolute;
+		//	width: 50vw;
+			height: 33.55vw;
+		//	top:3.33vw;
+			img{
+				max-width: 45vw;
+				max-height: 33vw;
+				margin: auto;
+				margin-top:16.75vw;
+				transform:translateY(-50%);
+				//display: block;
+			}
+			.imgWrapper{
+				width: calc(50vw + 1.5pt);
+				height: 33.55vw;
+			}
+
+			.slick-slide{
+				height: 33.55vw;
+			}
+
+			.slick-arrow{
+				width: 33%;
+				height: 33.55vw;
+				position:absolute;
+				z-index: 9;
+				left:0;
+				top:0;
+				opacity: 0;
+				padding: 0px;
+				&.slick-next{
+					//display: none !important;
+					left: auto;
+					right:0;
+				}
+			}
+		}
+
+		.fullScreen{
+			width: 16.67vw;
+			height: 33.55vw;
+			position:absolute;
+			z-index: 9;
+			left:41.67vw;
+			
+			top:$topMargin;
+			opacity: 0; 
+		}
+
+		.fullScreen:hover{
+			cursor:pointer;
+		}
+
+		
+	}
+
+	
+
+	.fullscreenPanel{
+		width: 100vw;
+		height: 100vh;
+		position: fixed;
+		background-color:white;
+		z-index: 1000;
+		top:calc(100vh - 42px);
+		left:0;
+		background-color: white;
+		transition: top 1s;
+		.gridWrapper{
+			width: 100vw;
+			height: 100vh;
+			top:0;
+			left:0;
+		}
+
+		.slideshow{
+			height: 100%;
+			img{
+				max-width: $column-ten;
+				max-height: 80vh;
+				margin-top: 8vh;
+				transform: none;
+
+			}
+			.slick-slide{
+				height: 100%;
+			}
+			.slick-arrow{
+				height: 100%;
+				width: 50%;
+			}
+
+		}
+
+	}
+
+	&.fullscreenOpen{
+		overflow: hidden;
+		height: 100vh;
+		.fullscreenPanel{
+			top:0;
+			.slideshow{
+				pointer-events:auto;
+			}
+		}
+		.fullScreen{
+			pointer-events:none;
+		}
+		.slideshow{
+			pointer-events:none;
+		}
+		#close{
+			display: block;
+		}
+	}
+
+	
+}
+
+.slick-arrow:hover{
+	cursor:pointer;
+}
+

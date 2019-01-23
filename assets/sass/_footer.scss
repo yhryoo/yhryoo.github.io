@@ -1,0 +1,139 @@
+.footer{
+		min-height: 20vh;
+		width: 100vw;
+		padding-bottom: calc(42px + 15pt);
+		padding-top: 15pt;
+		float: left;
+		position: relative;
+		white-space: nowrap;
+		overflow: hidden;
+	//	background-color:transparent !important;
+		.navWrapper{
+			display: none;
+		}
+
+		.active{
+			display: block;
+		}
+
+		.navRow{
+			width: 100vw;
+			height: 11pt;
+			position:relative;
+			float: left;
+			margin-bottom: 13.5pt;
+			z-index: 999;
+			white-space: nowrap;
+		}
+
+		.nav{
+			white-space: nowrap;
+			//float: left;
+			display: inline-block;
+			text-shadow: 
+			-1px 1px 0 #fff,
+			1px 1px 0 #fff,
+			1px -1px 0 #fff,
+			-1px -1px 0 #fff;
+		}
+
+		.label{
+				width: $column-two;
+				margin-left: calc(#{$column-three} + 0.83vw);
+				height: 25px;
+				float: left;
+		}
+	
+
+		#about{
+			.text{
+				//margin-left: calc(#{$column-five} + 0.83vw);
+				width: $column-five;
+				margin-bottom: 20pt;
+				//margin-top: 20pt;
+				white-space: normal;
+				//display: block;
+				float:left;
+			}
+
+			.backToTop{
+				.nav{
+				//	margin-left: $column-five;
+					width: $column-two;
+					text-align: center;
+				}
+			}
+
+		}
+
+		#texts{
+			.navRow{
+				.nav{
+				//	margin-left: calc(#{$column-five} + 0.83vw);
+				}
+
+				&.firstRow{
+					margin-top: $smallMargin;
+					.nav{
+						margin-left: 0px;
+					//	margin-top: $smallMargin;
+					}
+					.label{
+						margin-left: calc(#{$column-three} + 0.83vw);
+					//	margin-top: $smallMargin;
+					}
+				}
+			}
+
+			.firstRow:first-of-type{
+				margin-top: 0px;
+			}
+
+
+			
+		}
+		
+
+		.navRow:hover{
+			border-bottom: solid 1.5pt;
+			margin-bottom: 12pt;
+			cursor:pointer;
+		}
+
+		.gridWrapper{
+			background-color: white;
+			position:absolute;
+			height: 100%;
+			width: 100%;
+			margin-top: -15pt;
+		//	float: left;
+		//	margin-top: -15pt;
+		//	top: calc(0 - #{$smallMargin});
+		}
+
+		a:hover{
+			opacity: 1;
+			color:black;
+		}
+
+
+		
+}
+
+.clicked{
+	.footer{
+		position:fixed;
+		bottom: 0;
+		background-color: white;
+	}
+	
+}
+
+// .footerBlock{
+// 			width: 100vw;
+// 		 margin-top:-20px;
+// 			position: fixed;
+// 			background-color: white !important;
+// 			opacity: 0.8;
+// 			z-index: 3;
+// 		}

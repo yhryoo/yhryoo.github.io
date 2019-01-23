@@ -1,0 +1,94 @@
+title: Individual Book Page
+
+pages: false
+
+fields:
+  englishTitle:
+    label: English Title
+    type: Text
+    required: true
+    width: 1/3
+  
+  japaneseTitle:
+    label: Japanese Title
+    type: Text
+    required: true
+    width: 1/3
+
+  sessionNumber:
+    label: Session Number
+    type: Text
+    required: true
+    width: 1/3
+
+  englishArtist:
+    label: Artist (English)
+    type: Text
+    required: true
+    width: 1/2
+
+  japaneseArtist:
+    label: Artist (Japanese)
+    type: Text
+    required: true
+    width: 1/2
+
+  coverImage:
+    label: Cover Image
+    type: image
+
+  bookImages:
+    label: Book Images
+    type: structure
+    fields:
+      bookImage:
+        label: Book Image
+        type: image
+
+  awards:
+    label: Awards
+    type: Textarea
+    width: 1/3
+
+  credit:
+    label: Credit
+    type: Textarea
+    width: 1/3  
+
+  specs:
+    label: Book specs
+    type: Textarea
+    width: 1/3
+
+  fromSessionPressEnglish:
+    label: From Session Press (English)
+    type: Textarea
+
+  fromSessionPressJapanese:
+    label: From Session Press (Japanese)
+    type: Textarea
+
+  reviewEnglish:
+    label: Review (English)
+    type: Textarea
+
+  reviewJapanese:
+    label: Review (Japnaese)
+    type: Textarea
+
+  artistBioEnglish:
+    label: Artist Bio (English)
+    type: Textarea
+    width: 1/2
+
+  artistBioJapanese:
+    label: Artist Bio (Japanese)
+    type: Textarea
+    width: 1/2
+
+
+
+
+
+
+

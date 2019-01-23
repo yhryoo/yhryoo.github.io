@@ -1,0 +1,90 @@
+title: text
+
+pages: false
+
+fields:
+  englishTitle:
+    label: English Title
+    type: text
+    width: 1/2
+
+  cjkTitle:
+    label: CJK Title
+    type: text
+    width: 1/2
+
+  articles:
+    label: Articles
+    type: checkbox
+    width: 1/3
+
+  writings:
+    label: Writings
+    type: checkbox
+    width: 1/3
+
+  features:
+    label: Features
+    type: checkbox
+    width: 1/3
+    
+  date:
+    label: Date
+    type: date
+    width: 1/2
+
+  coverImageSlide:
+    label: Cover Image Slide
+    type: structure
+    fields:
+      coverImage:
+        label: Cover Image
+        type: image
+
+  englishText:
+    label: English Text
+    type: textArea
+
+  japanese:
+    label: Japanses
+    type: checkbox
+    width: 1/3
+
+  chinese:
+    label: Chinese
+    type: checkbox
+    width: 1/3
+
+  korean:
+    label: Korean
+    type: checkbox
+    width: 1/3
+
+  cjkText:
+    label: CJK Text
+    type: textArea
+
+  interviewEnglish:
+    label: Interview (English)
+    type: structure
+    fields:
+      question:
+        label: Question
+        type: textarea
+      answer:
+        label: Answer
+        type: textarea
+      insertImage:
+        label: Insert Image
+        type: image
+
+  interviewCJK:
+    label: Interview (CJK)
+    type: structure
+    fields:
+      question:
+        label: Question
+        type: textarea
+      answer:
+        label: Answer
+        type: textarea

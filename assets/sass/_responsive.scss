@@ -1,0 +1,159 @@
+$break : 800px;
+
+@media screen and (max-width: $break)
+{
+
+	main{
+		width: 100%;
+		min-width: 0px;
+		.blockerWrapper{
+			width: 100%;
+			min-width: 0px;
+		}
+	}
+
+	.title{
+	//	float:none;
+		float:none;
+		display: block;
+		font-size: 18pt;
+		white-space: normal;
+		margin-top: $smallMargin;
+		//height: 200px;
+		.eng{
+			margin: 0px;
+			width: calc(100vw - #{$bigMargin});
+		//	float: left;
+		}
+
+		.jpn, .kor, .chn{
+			margin-left: $column-one;
+			font-size: 16.5pt;
+			//margin-top:-63px;
+			margin-top: 1pt;
+			margin-bottom: 2pt;
+			width: calc(#{$column-eleven} - #{$bigMargin});
+		//	float: left;
+		}
+	}
+
+	.text{
+	//	float:none;
+		position: relative;
+		width: 100%;
+	}
+
+	.header{
+		.title{
+			&.eng{
+				line-height: 1.52;
+			}
+			&.jpn{
+
+			}
+		}
+
+		&.notScrolled{
+			.title{
+				&.eng{
+				font-size: 18vw;
+				}
+				&.jpn{
+					font-size: 16.56vw;
+					margin-left: 23.1vw;
+					margin-top: -40.5vw;
+					letter-spacing: -7pt;
+					line-height: 1.65;
+				}
+			}
+		}
+	}
+	.gridWrapper{
+		.vgrid{
+			width: calc(3.33vw - 1.5pt);
+		}
+
+		.hgrid{
+			height: calc(3.33vw - 1.5pt);
+		}
+	}
+
+	.divider{
+		float: none;
+	}
+
+	.home{
+		width: 100%;
+		min-width: 0px;
+		.blockerWrapper{
+		//	float:left;
+			float:none;
+			width: 100%;
+			.slideshow{
+				width: 100vw;
+			//	height: 100vh;
+				.panelWrapper{
+			//		float: left;
+					//float:none;
+					width: 100vw;
+					//height: 100vh;
+					img{
+					float:none;
+			//			float: left;
+					}
+					.newsContent{
+						position:relative;
+						width:calc(100vw - #{$bigMargin});
+						margin: 0px;
+						margin-left: $smallMargin;
+						margin-top: -100vh;
+						float:left;
+						z-index: 999;
+					}
+
+
+				}
+				.blocker{
+					//float:left;
+					float:none;
+					height: auto;
+					.text{
+						position: relative;
+						margin: 0px;
+						margin-top: $smallMargin;
+						//float: left;
+						float:none;
+						
+						width: calc(100vw - #{$bigMargin});
+					}
+				}
+			}
+			.blocker{
+			//	float:left;
+				float:none;
+				width: calc(100vw - #{$bigMargin});
+				padding-left: $smallMargin;
+				padding-right: $smallMargin;
+				.sessionContainer{
+					img{
+						width: 100%;
+						margin-left: 0px;
+					}
+					.sessionNumber.title{
+						width: 100%;
+						margin-left: 0px;
+					}
+				}
+
+				.divider{
+					height: 25px;
+				}
+			}
+
+			.divider.container{
+				height: 350px;
+			}
+			
+		}
+	}
+}

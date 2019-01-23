@@ -1,0 +1,123 @@
+.home{
+	z-index: 9;
+	position: absolute;
+	//background-color:red;
+	.blockerWrapper{
+	//	height: 100vh;
+	//	padding-bottom: 200px;
+	//	background-color:red;
+		.slideshow{
+			background-color: white;
+			outline: none;
+
+			.panelWrapper{
+				outline: none;
+				overflow: hidden;
+				img{
+					width: 100vw;
+					height: 100vh;
+					object-fit: cover;
+				}
+
+				.newsContent{
+					//float:none;
+					position: absolute;
+					width: $column-four;
+					margin-left: $column-four;
+					text-align: center;
+					color: white;
+					top:$smallMargin;
+				//	text-shadow: 0;
+				}
+				
+			}
+
+			.panelWrapper:hover{
+				cursor: pointer;
+			}
+
+			.slick-arrow{
+				display: none !important;
+			}
+			.blocker{
+				height: 25vh;
+				.text{
+					width: calc(#{$column-four} - #{$bigMargin});
+					margin-left: $smallMargin;
+					margin-top: $smallMargin;
+					position: absolute;
+					//float: left;
+					height: 100%;
+					min-width: 310px;
+				}
+				.title{
+					margin-top:$smallMargin;
+				}
+			}
+		}
+
+		.sessionContainer{
+			.sessionNumber{
+				width: $column-two;
+				margin-left: $column-five;
+				text-align: center;
+				margin-bottom: 20px;
+			}
+
+			img{
+				width: $column-six;
+				margin-left: $column-three;
+				transition: filter 0.2s;
+			}
+
+			img:hover{
+			//	outline: 1.5pt solid black;
+			//	border:solid 5pt;
+			//	width: $column-six;
+			//	margin-left: $column-three;
+				filter: grayscale(100%);
+			//	filter: invert(100%);
+			}
+
+			
+		}
+	
+
+		.divider.container{
+			height: 29vw;
+		}
+
+	}
+
+	.header.notScrolled{
+		//position: static;
+		//width: 100vw;
+		//background-color: white;
+		//float: left;
+		.title{
+			font-size: 10vw;
+		}
+		.jpn{
+			font-size: 9.2vw;
+			margin-left: 11.1vw;
+			margin-top: -24.1vw;
+			letter-spacing: -12pt;
+		}
+		
+	}
+	.toolbar{
+		top:100vh;
+		transition: top 0.5s;
+	}
+
+	.divider, .sessionContainer, .blocker{
+		background-color:white;
+		float: none;
+	}
+
+	.blocker{
+	//	padding-bottom:100px;
+	}
+}
+
+

@@ -1,0 +1,65 @@
+Englishtitle: Differnet Title
+
+----
+
+Japanesetitle: 青ノ時代／去年ノ夏　アラキネマ
+
+----
+
+Sessionnumber: 8
+
+----
+
+Englishartist: Yeon Ryoo
+
+----
+
+Japaneseartist: 青ノ時代／去年ノ夏　アラキネマ
+
+----
+
+Coverimage: 2-23_press.jpg
+
+----
+
+Bookimages: 
+
+----
+
+Awards: 
+
+----
+
+Credit: 
+
+----
+
+Specs: 
+
+----
+
+Fromsessionpressenglish: 
+
+----
+
+Fromsessionpressjapanese: 
+
+----
+
+Reviewenglish: 
+
+----
+
+Reviewjapanese: 
+
+----
+
+Artistbioenglish: 
+
+----
+
+Artistbiojapanese: 
+
+----
+
+Title: Hello this is another one

@@ -1,0 +1,25 @@
+title: About
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type: title
+    default: About
+
+  coverImage:
+    label: Cover Image
+    type: image
+    
+  englishText:
+    label: English Text
+    type: textarea
+    
+  japaneseText:
+    label: Japanese Text
+    type: textarea
+
+  footerText:
+    label: Footer Text
+    type: textarea

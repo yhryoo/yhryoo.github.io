@@ -1,0 +1,41 @@
+Englishtitle: Article Title the Fourth
+
+----
+
+Japanesetitle: 面談 面談
+
+----
+
+Date: 2018-02-06
+
+----
+
+Coverimage: 
+
+----
+
+Enlgishtext: 
+
+----
+
+Japanesetext: 
+
+----
+
+Title: Article Title the Fourth
+
+----
+
+Category: articles
+
+----
+
+Articles: 1
+
+----
+
+Writings: 0
+
+----
+
+Features: 0

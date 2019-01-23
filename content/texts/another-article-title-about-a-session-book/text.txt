@@ -1,0 +1,77 @@
+Englishtitle: Another Article Title About a Session Book
+
+----
+
+Japanesetitle: 面談 面談 面談 面談
+
+----
+
+Date: 2018-03-02
+
+----
+
+Coverimage: 
+
+----
+
+Enlgishtext: 
+
+----
+
+Japanesetext: 
+
+----
+
+Title: Another Article Title About a Session Book
+
+----
+
+Category: articles
+
+----
+
+Articles: 1
+
+----
+
+Writings: 0
+
+----
+
+Features: 0
+
+----
+
+Cjktitle: 
+
+----
+
+Coverimageslide: 
+
+----
+
+Englishtext: 
+
+----
+
+Japanese: 0
+
+----
+
+Chinese: 0
+
+----
+
+Korean: 0
+
+----
+
+Cjktext: 
+
+----
+
+Interviewenglish: 
+
+----
+
+Interviewcjk: 
